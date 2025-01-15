@@ -3,7 +3,7 @@ import "./App.css";
 import Button from "./components/Button";
 
 function App() {
-	const [color, setColor] = useState("white");
+	const [bgColor, setBgColor] = useState("white");
 
 	const buttons = [
 		{
@@ -57,10 +57,10 @@ function App() {
 	];
 
 	const handleButtonClick = (clr) => {
-		setColor(clr);
+		setBgColor(clr);
 	};
 	return (
-		<div className="container" style={{ background: color }}>
+		<div className="container" style={{ background: bgColor }}>
 			<div className="btn-box">
 				{buttons.map((btn) => {
 					return (
