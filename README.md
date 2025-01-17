@@ -2,7 +2,7 @@
 
 ## ==> [Link to all problem set](https://github.com/anirudha-8/react.js-practical-problems.git)
 
-## ==> [🔥Live Demo](https://09-background-color-change-react-problem.vercel.app/)
+## ==> [🔥Live Demo](https://09-change-background-react-problem.vercel.app/)
 
 Welcome to the **ninth problem** of the React 30+ Practical Problems series! In this challenge, we will create a component that changes its background color dynamically when clicked.
 
@@ -27,25 +27,25 @@ Key features:
 1. **Clone the Submodule Repository:**
 
     ```bash
-    git clone https://github.com/anirudha-8/09-background-color-change-react-problem.git
+        git clone https://github.com/anirudha-8/09-change-background-react-problem.git
     ```
 
 2. Navigate to the Project Directory:
 
     ```bash
-    cd 09-background-color-change-react-problem
+        cd 09-background-color-change-react-problem
     ```
 
 3. Install Dependencies:
 
     ```bash
-    npm install
+        npm install
     ```
 
 4. Start the Development Server:
 
     ```bash
-    npm run dev
+        npm run dev
     ```
 
 ---
